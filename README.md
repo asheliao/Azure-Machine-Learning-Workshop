@@ -1,1 +1,1 @@
-# III Workshop
+# Workshop for Azure Machine Learning Service
